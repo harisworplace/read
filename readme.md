@@ -1,0 +1,1 @@
+my project is to use YOLOV10 and easyocr for the efficient detection of number plate.
